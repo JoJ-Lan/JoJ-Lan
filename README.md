@@ -10,5 +10,5 @@ In an attemp at better orginization and to learn how GitHub works out of curiosi
 ### Favorite Idiom
 Two idiots, one thought.
 
-## Favorite Quote
+### Favorite Quote
 \neg\exists(x)(H(x)\land I(x))
