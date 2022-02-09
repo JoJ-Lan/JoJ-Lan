@@ -6,3 +6,9 @@ My interests wax and wane like the tides, orbital precession, sunspots, and I wo
 
 ### What You Will See Here
 In an attemp at better orginization and to learn how GitHub works out of curiosity, I have started to use git on my personal projects and upload them to GitHub. I won't even pretent that I will be diligent in keeping the repositories up to date and synced my my progress, but I am gonna try. As I have said, this is mostly for myself, but if you find something useful here, well I know how happy I am when I fine something on GitHub so I'd be happy if you found the same here.
+
+### Favorite Idiom
+Two idiots, one thought.
+
+## Favorite Quote
+\neg\exists(x)(H(x)\land I(x))
