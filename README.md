@@ -11,4 +11,4 @@ In an attemp at better orginization and to learn how GitHub works out of curiosi
 Two idiots, one thought.
 
 ### Favorite Quote
-\neg\exists(x)(H(x)\land I(x))
+$\neg\exists(x)(H(x)\land I(x))$
