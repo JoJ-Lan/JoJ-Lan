@@ -8,4 +8,4 @@ My interests wax and wane with the tides, orbital precession, sunspots, and I wo
 In an attemp at better orginization and to learn how GitHub works out of curiosity, I have started to use git on my personal projects and upload them to GitHub. I won't even pretent that I will be diligent in keeping the repositories up to date and synced with my progress, but I am gonna try.
 
 ## Favorite Quote
-$\neg\exists(x)(H(x)\land I(x))$ (When did GitHub start rendering \latex o_0)
+$\neg\exists(x)(H(x)\land I(x))$   (When did GitHub start rendering $\latex$? o_0)
